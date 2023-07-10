@@ -1,0 +1,14 @@
+.parent{
+    width: 1600px;
+    height: 800px;
+    border: 2px solid red;
+    background-image: url(./images/banner/banner1.png);
+    
+
+}
+.content-div{
+   width: 300px;
+   height: 300px; 
+   
+
+}
